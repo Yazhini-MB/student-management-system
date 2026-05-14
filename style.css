@@ -1,0 +1,143 @@
+/* body {
+  font-family: Arial;
+  text-align: center;
+}
+
+li {
+  margin: 10px;
+}
+
+.table-section {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+}
+
+
+.main-container {
+  display: flex;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.entry-section {
+  width: 300px;
+}
+
+.entry-section input,
+.entry-section button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.entry-section button {
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.table-section {
+  flex: 1;
+} */
+
+/* body {
+  background: #eee;
+  font-family: Arial;
+}
+
+.main-container {
+  display: flex;
+  gap: 40px;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.entry-section {
+  width: 300px;
+}
+
+.entry-section input,
+.entry-section button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.entry-section button {
+  background: green;
+  color: white;
+  border: none;
+}
+
+.table-section {
+  background: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  width: 600px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid gray;
+  padding: 10px;
+  text-align: center;
+}
+
+body{
+  background: lightpink;
+} */
+
+body {
+  font-family: Arial;
+  background: #f4f6f8;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  width: 150px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 70%;
+  background: white;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
